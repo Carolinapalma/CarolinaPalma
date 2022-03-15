@@ -1,6 +1,6 @@
  #  Olá! me chamo Carolina Palma 🖐️ <img align="right" src="https://img.shields.io/badge/Pronouns-She%2FHer-orange">
 
-<a align="center"> Atualmente busco mudar minha carreira, apesar da minha formação na área da saúde nunca estive longe do que tenho me aprofundado hoje. Estou entrando de cabeça em conteúdos de programação e tecnologia, experimentando e me apaixonando por tudo!
+<a align="center"> Atualmente busco mudar de carreira, apesar da minha formação na área da saúde nunca estive longe do que tenho me aprofundado hoje. Estou entrando de cabeça em conteúdos de programação e tecnologia, experimentando e me apaixonando por tudo!d
 </a>
 
 🎓 **Formação** <p>
