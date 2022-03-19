@@ -5,25 +5,24 @@
 
 🎓 **Formação** <p>
   
-><img align="center" height="14" src="https://www.uff.br/sites/default/files/paginas-internas-orgaos/logouff_horizontal_branco_fundo_transparente.png"> <p>
->Graduação: *Licenciatura Educação Física* <p>
->Pós Graduação Lato Sensu - Residência Multiprofissional em Saúde
+> <p>
+>Graduação: Licenciatura Educação Física &ensp;<img align="center" height="13" width="25" src="https://logodownload.org/wp-content/uploads/2015/03/uff-logo-4.png"><p>
+>Pós Graduação Lato Sensu - Residência Multiprofissional em Saúde &ensp;<img align="center" height="13" width="25" src="https://logodownload.org/wp-content/uploads/2015/03/uff-logo-4.png">
 </p>
 
 &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;  &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;  &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; <p>
   
-🔰 **Estudando** DEV Web Fullstack pela &ensp;<img align="center" width="75" src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white">
+🔰 **Estudando** DEV Web Fullstack pela &ensp;<a href="https://www.udemy.com/course/curso-web/" target="_blank"><img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"></a>
+	
+	
 <div style="display: inline_block"><br>
-  &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;  &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;
+  &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;  &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;
   <img align="center" alt="CP-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="CP-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  
   <img align="center" alt="CP-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CP-Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg">
+  
   <img align="center" alt="CP-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="CP-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
-  <img align="center" alt="CP-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="CP-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-    <p>
+      <p>
     <p>
   
   ##
