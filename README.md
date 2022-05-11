@@ -3,7 +3,7 @@
 <a align="center"> Atualmente busco mudar de carreira, apesar da minha formação na área da saúde nunca estive longe do que tenho me aprofundado hoje. Estou entrando de cabeça em conteúdos de programação e tecnologia, experimentando e me apaixonando por tudo!d
 </a>
 
-🎓 **Formação** <p>
+🎓 **Formação Acadêmica** <p>
   
 > <p>
 >Graduação: Licenciatura Educação Física &ensp;<img align="center" height="13" width="25" src="https://logodownload.org/wp-content/uploads/2015/03/uff-logo-4.png"><p>
@@ -37,6 +37,6 @@
 <div> 
 &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;  &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;
   <a href="https://instagram.com/medeiros.palma" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="Palma#2621" target="_blank"><img src="https://img.shields.io/badge/Palma#2621-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="Palma#2621" target="_blank"><img src="https://img.shields.io/badge/Palma-#2621-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:carolinapalma@id.uff.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" destino ="_blank"></a>
   <a href="https://www.linkedin.com/in/carolina-palma-medeiros-2696a2234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
