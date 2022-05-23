@@ -12,18 +12,26 @@
 
 &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;  &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;  &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; <p>
   
-🔰 **Estudando** DEV Web Fullstack pela &ensp;<a href="https://www.udemy.com/course/curso-web/" target="_blank"><img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"></a>
+🔰 **Estudando** Desenvolvimento - Front End <br>
+	<br>
+	<a href="https://www.udemy.com/course/curso-web/" target="_blank"><img height="25" width="85" src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"></a>
+	<a href="https://lms.startse.com/curso/tech-academy-turma-1/aulas/tech-academy-onboarding" target="_blank"><img height="25" width="85" src="https://user-images.githubusercontent.com/95711654/169910358-012bd846-7267-436a-87d9-c86cf5d2a8c4.png"></a>
+	<a href="https://hotmart.com/pt-br/marketplace/produtos/devquest-dev-em-dobro/I56659685O" target="_blank"><img height="25" width="85" src="https://www.agenciamestre.com/wp-content/uploads/2015/09/hotmart-logo.png"></a>
 	
 	
 <div style="display: inline_block"><br>
-  &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;  &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;
-  <img align="center" alt="CP-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<br>
+	  &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;  &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;
+	
+  <img align="center" alt="img-HTML" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   
-  <img align="center" alt="CP-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  
-  <img align="center" alt="CP-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-      <p>
-    <p>
+  <img align="center" alt="img-CSS" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+	
+  <img align="center" alt="CP-Js" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+	
+  <img align="center" alt="img-React" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">	
+<br>
+<br>	
   
   ##
   
