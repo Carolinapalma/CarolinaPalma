@@ -29,7 +29,12 @@
 	
   <img align="center" alt="img-Js" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 	
-  <img align="center" alt="img-React" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">	
+  <img align="center" alt="img-React" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+	
+  <img align="center" alt="img-Git" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
+	
+   <img align="center" alt="img-GitHub" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+
 <br>
 <br>	
   
